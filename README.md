@@ -11,6 +11,3 @@ Example of a very simple spellchecker implemented in both [Kotlin][1] and Java.
 [1]: http://confluence.jetbrains.net/display/Kotlin/Welcome
 [2]: http://confluence.jetbrains.net/display/Kotlin/Getting+Started
 asdasas
-asdasdas
-asdasdasdasdasd
-asdasdasdasd
