@@ -13,3 +13,4 @@ Example of a very simple spellchecker implemented in both [Kotlin][1] and Java.
 asdasas
 asdasdas
 asdasdasdasdasd
+asdasdasdasd
