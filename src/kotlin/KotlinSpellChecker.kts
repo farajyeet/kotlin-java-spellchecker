@@ -33,7 +33,7 @@ class KotlinSpellChecker {
 }
 
 fun main(args : Array<String>) {
-    val defaultInput = "yeah, kotlin"
+    val defaultInput = "defaultinput kotlin"
     val valid = KotlinSpellChecker().checkSpelling(if (args.size > 0) args[0] else defaultInput)
     println("valid? $valid")
 }
